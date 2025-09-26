@@ -4,7 +4,7 @@
 ```markdown
 # Deep Learning From Scratch
 
-This repository contains a complete implementation of **deep learning concepts** built entirely **from scratch** without using high-level deep learning frameworks like TensorFlow or PyTorch.  
+This repository contains a complete implementation of **deep learning concepts** built entirely **from scratch** without using Pytorch.  
 The goal of this project is to **deeply understand** how neural networks and their components work under the hood by implementing everything using only basic Python and NumPy.
 
 ---
