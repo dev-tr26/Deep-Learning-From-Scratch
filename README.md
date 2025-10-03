@@ -13,7 +13,7 @@ The goal of this project is to **deeply understand** how neural networks and the
 
 Deep-Learning-From-Scratch/
 │
-├── CNNs/                        # Convolutional Neural Network implementation
+├── CNNs/                        # Convolutional Neural Network implementations
 ├── Gradient_descent/            # Gradient Descent algorithms
 ├── MLP/                          # Multi-Layer Perceptron implementation
 ├── activation_functions/        # Sigmoid, ReLU, Tanh, Softmax, etc.
